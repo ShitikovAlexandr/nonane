@@ -1,0 +1,6 @@
+framework module Pods_BestToBiz {
+  umbrella header "Pods-BestToBiz-umbrella.h"
+
+  export *
+  module * { export * }
+}
